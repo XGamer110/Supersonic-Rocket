@@ -1,6 +1,8 @@
 # Supersonic-Rocket
 A fully homemade rocket that will be capable of reaching speeds of Mach 1 or greater.
 
+This supersonic rocket project is designed to demonstrate my knowledge and passion for aerospace engineering through real-world application. With a strong foundation in propulsion and flight systems, this build will help me stand out in college admissions by proving my technical understanding and commitment to advanced engineering.
+
 (BOM) - Bill of Materials
 
 | **Name**                  | **Description**                                                                 | **Price ($)** |
