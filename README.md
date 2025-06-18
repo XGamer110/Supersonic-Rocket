@@ -16,7 +16,7 @@ A fully homemade rocket that will be capable of reaching speeds of Mach 1 or gre
 | **Microcontroller**         | Arduino Nano or similar board for data logging and sensor integration           | 6-10          |
 | **LiPo Battery (Avionics)** | 3.7-7.4V rechargeable battery to power electronics                               | 8-12          |
 | **Wiring + Connectors**     | Jumper wires, headers, heat shrink tubing, small PCB                            | 4-8           |
-| **Rocket Nozzle (Graphite)**| Machined or DIY graphite nozzle for exhaust control and thrust optimization     | 20-30         |
+| **Rocket Nozzle (Graphite or Ceramic Composite)** | Precision-machined nozzle for optimal supersonic exhaust velocity; handles high heat and pressure | 35-60 |
 | **Launch Rod + Pad**        | Metal rod and stable base for guided vertical launch                            | 15-25         |
 | **Epoxy + Adhesives**       | High-temp epoxy (e.g., JB Weld ExtremeHeat) for assembly                        | 8-12          |
 | **Heat Shielding Tape**     | Aluminum tape for heat protection around nozzle and electronics compartment     | 5-8           |
